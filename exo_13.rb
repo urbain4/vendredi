@@ -4,4 +4,5 @@ birth_date = birth_date.to_i
 compteur = birth_date
 while (compteur <2019)
   print compteur +=1
+puts ""
 end
